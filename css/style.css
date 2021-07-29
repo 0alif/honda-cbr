@@ -1,0 +1,60 @@
+.body {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  background-color: #e5e5e5;
+}
+.head-frame {
+  width: 100%;
+  padding-right: 64px;
+  padding-left: 100px;
+  padding-top: 69px;
+  padding-bottom: 96px;
+  margin-bottom: 64px;
+  background-color: #264653;
+}
+.purchese-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 168px;
+  height: 44px;
+  background-color: #e76f51;
+  border-radius: 5px;
+  padding: 10px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.fetured-text {
+  margin-bottom: 120px;
+}
+.fetured-text h1 {
+  font-size: 48px;
+  color: #000000;
+  font-weight: 600;
+}
+.grayscale-image {
+  filter: grayscale(100%);
+}
+.text-orange {
+  color: #e76f51;
+}
+.clients {
+  margin-top: 148px;
+}
+.clients h1 {
+  margin-bottom: 52px;
+}
+.happy-img {
+  height: 149px;
+  width: 149px;
+}
+.happy-text {
+  font-weight: 600;
+  font-size: 48px;
+  color: #0d0925;
+}
+.faq {
+  margin-top: 158px;
+  margin-bottom: 112px;
+}
